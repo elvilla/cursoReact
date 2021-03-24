@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
-  color: blueviolet;
+  text-align: justify;
+  color: antiquewhite;
+  list-style-type: none;
+  margin: 2rem;
+  background-color:grey
 }
 
